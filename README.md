@@ -39,7 +39,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/MOHITPATHAK18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOHITPATHAK18&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITPATHAK18&theme=buefy&layout=compact" />
 </a>
@@ -49,7 +49,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/MOHIT PATHAK/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MOHIT PATHAK-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/MOHITPATHAK/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MOHITPATHAK-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mohitpathak._18/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mohitpathak._18-blue?style=flat-square&logo=instagram"></a>
 <a href="mohitpathak968@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohitpathak968@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
