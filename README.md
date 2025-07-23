@@ -41,8 +41,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOHITPATHAK18&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITPATHAK18&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -50,9 +50,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MOHIT PATHAK-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mohitpathak._18-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-mohitpathak968@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/MOHIT PATHAK/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MOHIT PATHAK-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/mohitpathak._18/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mohitpathak._18-blue?style=flat-square&logo=instagram"></a>
+<a href="mohitpathak968@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohitpathak968@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [MOHITPATHAK18](https://github.com/AVS1508)
+⭐️ From [MOHITPATHAK18](https://github.com/MOHITPATHAK18)
