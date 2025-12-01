@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mohit
-🚀 DevOps Engineer | ☁ AWS | 🐍 Python | 🐳 Docker | SQL
+🚀 🐍 Python | Excel | SQL | Power BI  | Statistics
 
 - 🔧 I work with: Python, Power BI, Python Library, Excel MySQL, Git
 - 💡 🔥 Passionate about turning raw data into meaningful insights that drive smart decisions and business growth.
