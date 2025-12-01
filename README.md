@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mohit
 🚀 🐍 Python | Excel | SQL | Power BI  | Statistics
 
-- 🔧 I work with: Python, Power BI, Python Library, Excel MySQL, Git
+- 🔧 I work with: Python, Power BI, Python Library, Excel, MySQL, Git
 - 💡 🔥 Passionate about turning raw data into meaningful insights that drive smart decisions and business growth.
 
 - 📚 Currently learning: Data Analytics
