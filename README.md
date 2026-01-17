@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**MOHITPATHAK18/MOHITPATHAK18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Mohit
 
-Here are some ideas to get you started:
+ Aspiring Data Analyst | Data Science Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with data to uncover patterns, generate insights, and support data-driven decision-making. I enjoy analyzing datasets, building dashboards, and continuously improving my analytical and statistical skills through hands-on projects.
+
+🔧 Tech Stack
+
+Python (Pandas, NumPy, Matplotlib)
+
+SQL (Joins, Subqueries, Window Functions)
+
+Excel (Advanced Functions, Pivot Tables)
+
+Power BI (Dashboards & Reporting)
+
+📌 Currently Exploring
+
+Exploratory Data Analysis (EDA)
+
+Business & Product Analytics
+
+Real-world datasets and case studies
+
+📫 Open to collaboration on data analytics & data science projects
