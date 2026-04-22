@@ -58,7 +58,7 @@
 - 📧 mohitpathak968@gmail.com
 - 💻 GitHub: https://github.com/MOHITPATHAK18
 - 🧠 LeetCode: https://leetcode.com/u/MOHITPATHAK89U83EU392/
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-mohit-pathak 
+- 💼 LinkedIn: https://www.linkedin.com/in/mohit-pathak-a2a17524a/
 
 ---
 
