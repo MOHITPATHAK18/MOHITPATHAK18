@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohit
 
-🎯 **Data Analyst Fresher | Turning Data into Actionable Insights**
+🎯 **Data Analyst | Strong Foundation in Data Analysis & Visualization | Turning Data into Strategy**
 
 ---
 
