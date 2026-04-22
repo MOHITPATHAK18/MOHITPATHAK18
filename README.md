@@ -1,18 +1,64 @@
-# 💫 About Me:
-# Hi, I'm Mohit Pathak 👋  <br>### Data Analyst | Python | SQL | Power BI | Excel<br><br>## 📌 About Me<br>Data Analyst with hands-on experience in Python, SQL, and Microsoft Excel through real-world analytics projects. Skilled in data cleaning, exploratory data analysis (EDA), statistical analysis, and dashboard creation. Passionate about transforming raw data into actionable business insights.<br><br>---<br><br>## 🚀 Technical Skills<br><br>**Programming & Tools:**  <br>Python (Pandas, NumPy), SQL, Microsoft Excel, Power BI, Tableau  <br><br>**Data Analysis:**  <br>Data Cleaning, EDA, KPI Analysis, Statistical Analysis  <br><br>**SQL Skills:**  <br>Joins, Subqueries, Aggregations, CTEs, Window Functions  <br><br>**Visualization:**  <br>Matplotlib, Seaborn, Dashboards, Business Reporting  <br><br>---<br><br>## 📊 Projects<br><br>### 🔹 Customer Churn Analysis<br>- Performed EDA to identify key churn drivers<br>- Calculated churn rate (26.54%)<br>- Identified high-risk customer segments<br>- Provided insights to improve retention strategies<br><br>### 🔹 Movie Recommendation System<br>- Applied NLP techniques (TF-IDF, Cosine Similarity)<br>- Built a content-based recommendation model<br>- Processed and cleaned real-world movie datasets<br><br>---<br><br>## 📈 Currently Learning<br>- Advanced SQL Optimization<br>- Power BI Dashboard Development<br>- Business Intelligence Concepts<br><br>---<br><br>## 📫 Connect With Me<br>- LinkedIn: https://www.linkedin.com/in/mohit-pathak-a2a17524a/<br>- Email: your-mohitpathak968@gmail.com<br>- LeetCode:https://leetcode.com/u/MOHITPATHAK89U83EU392/<br>
+# 👋 Hi, I'm Mohit
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohit Pathak)
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MOHITPATHAK18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MOHITPATHAK18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITPATHAK18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎯 **Data Analyst Fresher | Turning Data into Actionable Insights**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MOHITPATHAK18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+- 🎓 BCA Graduate (2024)
+- 📊 Passionate about Data Analysis & Visualization
+- 📈 Skilled in transforming raw data into meaningful insights
+- 💡 Strong foundation in SQL, Python, and BI tools
+- 🔍 Always learning and exploring new data-driven techniques
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 🧑‍💻 Programming & Query Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+### 📊 Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 📚 Data Skills
+![Statistics](https://img.shields.io/badge/Statistics-FF6F61?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-9C27B0?style=for-the-badge)
+
+### ⚙️ Other Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Projects
+🔹 Power BI Dashboards  
+🔹 Python Data Analysis  
+
+---
+
+## 📊 GitHub Stats
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHITPATHAK18&show_icons=true&theme=radical)
+
+---
+
+## 📈 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/MOHITPATHAK89U83EU392)
+
+---
+
+## 🤝 Connect With Me
+- 📧 mohitpathak968@gmail.com
+- 💻 GitHub: https://github.com/MOHITPATHAK18
+- 🧠 LeetCode: https://leetcode.com/u/MOHITPATHAK89U83EU392/
+
+---
+
+⭐ *"Turning Data into Decisions"*
