@@ -38,12 +38,6 @@
 
 ---
 
-## 📌 Projects
-🔹 Power BI Dashboards  
-🔹 Python Data Analysis  
-
----
-
 ## 📊 GitHub Stats
 ![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHITPATHAK18&show_icons=true&theme=radical)
 
